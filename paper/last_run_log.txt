@@ -1,0 +1,108 @@
+# Paper trading run - month-end 2026-09-30
+
+Data runs to 2026-09-30. Run date 2026-10-01.
+
+
+## AIM: rebalanced
+
+186 eligible shares, holding the top 36 by 12-1 momentum (sector cap 7 per super-sector; 5 skipped for the cap). Trading costs GBP 111.00.
+
+| # | Code | Company | Super-sector | 12-1 gain |
+| --- | --- | --- | --- | --- |
+| 1 | SML | Strategic Minerals Plc | Basic Resources | +1340% |
+| 2 | HDD | Hardide PLC | Chemicals | +1141% |
+| 3 | IQE | IQE PLC | Technology | +543% |
+| 4 | ECO | Eco (Atlantic) Oil & Gas Ltd | Energy | +523% |
+| 5 | TUN | Tungsten West PLC | Basic Resources | +483% |
+| 6 | TPX | TPXimpact Holdings plc | Technology | +399% |
+| 7 | RGG | Rentguarantor Holdings PLC | Real Estate | +359% |
+| 8 | MAC | Marechale Capital Plc | Financial Services | +203% |
+| 9 | GWMO | Great Western Mining Corp Plc | Basic Resources | +168% |
+| 10 | BZT | Bezant Resources Plc | Basic Resources | +167% |
+| 11 | POLB | Poolbeg Pharma PLC | Health Care | +139% |
+| 12 | IOF | Iofina plc | Chemicals | +134% |
+| 13 | GDP | Goldplat PLC | Basic Resources | +118% |
+| 14 | GHH | Gooch & Housego Plc | Technology | +116% |
+| 15 | AAZ | Anglo Asian Mining Plc | Basic Resources | +106% |
+| 16 | AXL | Arrow Exploration Corp. | Energy | +102% |
+| 17 | ATM | AfriTin Mining Ltd | Basic Resources | +100% |
+| 18 | FTC | Filtronic | Telecommunications | +98% |
+| 19 | POLR | Polar Capital Holdings plc | Financial Services | +95% |
+| 20 | GCM | GCM Resources Plc | Energy | +87% |
+| 21 | ENSI | EnSilica PLC | Technology | +82% |
+| 22 | RFX | Ramsdens Holdings PLC | Financial Services | +81% |
+| 23 | KIST | Kistos PLC | Energy | +79% |
+| 24 | DEBS | BOOHOO GROUP PLC | Retail | +74% |
+| 25 | SEE | Seeing Machines Limited | Technology | +67% |
+| 26 | IGR | IG Design Group plc | Personal Care, Drug and Grocery Stores | +67% |
+| 27 | JSE | Jadestone Energy Inc | Energy | +66% |
+| 28 | TENG | Ten Lifestyle Group PLC | Travel and Leisure | +64% |
+| 29 | EYE | Eagle Eye Solutions Group plc | Technology | +61% |
+| 30 | MWE | M.T.I Wireless Edge Ltd | Telecommunications | +56% |
+| 31 | VTU | Vertu Motors Plc | Retail | +55% |
+| 32 | BILN | Billington Holdings PLC | Construction and Materials | +50% |
+| 33 | AET | Afentra PLC | Energy | +49% |
+| 34 | AVG | Avingtrans Plc | Industrial Goods and Services | +48% |
+| 35 | RWS | RWS Holdings PLC | Industrial Goods and Services | +46% |
+| 36 | ITM | ITM Power | Energy | +44% |
+
+Portfolio GBP 9,889.00 vs VWRP (global tracker, the baseline to beat) GBP 10,000.00 and AIM average (all eligible, equal weight) GBP 10,000.00; all started at GBP 10,000.
+
+## FTSE250: rebalanced
+
+245 eligible shares, holding the top 48 by 12-1 momentum (sector cap 9 per super-sector; 24 skipped for the cap). Trading costs GBP 113.00.
+
+| # | Code | Company | Super-sector | 12-1 gain |
+| --- | --- | --- | --- | --- |
+| 1 | CMCX | CMC Markets PLC | Financial Services | +215% |
+| 2 | CWR | Ceres Power Holdings PLC | Energy | +178% |
+| 3 | SSIT | Seraphim Space Investment Trust PLC | Financial Services | +164% |
+| 4 | SAGA | Saga plc | Travel and Leisure | +148% |
+| 5 | KLR | Keller Group PLC | Construction and Materials | +107% |
+| 6 | HFD | Halfords Group PLC | Retail | +100% |
+| 7 | WOSG | Watches Of Switzerland Group PLC | Consumer Products and Services | +97% |
+| 8 | APN | Applied Nutrition Plc | Food, Beverage and Tobacco | +92% |
+| 9 | HOC | Hochschild Mining plc | Basic Resources | +89% |
+| 10 | XPP | XP Power Ltd | Industrial Goods and Services | +89% |
+| 11 | FCH | Funding Circle Holdings PLC | Financial Services | +84% |
+| 12 | GROW | Draper Esprit PLC | Financial Services | +83% |
+| 13 | EMG | Man Group PLC | Financial Services | +81% |
+| 14 | ATYM | Atalaya Mining Ltd | Basic Resources | +78% |
+| 15 | COST | Costain Group PLC | Construction and Materials | +74% |
+| 16 | VLX | Volex Plc | Industrial Goods and Services | +73% |
+| 17 | FEML | Fidelity Emerging Markets Ord | Financial Services | +62% |
+| 18 | BRWM | Blackrock World Mining Trust Plc | Financial Services | +59% |
+| 19 | PAF | Pan African Resources PLC | Basic Resources | +59% |
+| 20 | OXIG | Oxford Instruments PLC | Industrial Goods and Services | +55% |
+| 21 | AEP | Anglo-Eastern Plantations PLC | Food, Beverage and Tobacco | +55% |
+| 22 | MTO | Mitie Group PLC | Industrial Goods and Services | +54% |
+| 23 | PHI | Pacific Horizon Investment Trust | Financial Services | +52% |
+| 24 | TEM | Templeton Emerging Markets Investment Trust TEMIT | Financial Services | +51% |
+| 25 | SNR | Senior PLC | Industrial Goods and Services | +50% |
+| 26 | HILS | Hill & Smith Holdings PLC | Basic Resources | +50% |
+| 27 | BOY | Bodycote PLC | Industrial Goods and Services | +47% |
+| 28 | ROR | Rotork PLC | Industrial Goods and Services | +46% |
+| 29 | RSW | Renishaw PLC | Industrial Goods and Services | +46% |
+| 30 | FOUR | 4Imprint Group Plc | Media | +45% |
+| 31 | ZIG | ZIGUP plc | Industrial Goods and Services | +44% |
+| 32 | CSN | Chesnara | Insurance | +43% |
+| 33 | MTRO | Metro Bank PLC | Banks | +43% |
+| 34 | RHIM | RHI Magnesita NV | Unknown | +41% |
+| 35 | RPI | Raspberry Pi Holdings PLC | Technology | +41% |
+| 36 | BBY | Balfour Beatty plc | Construction and Materials | +39% |
+| 37 | BMY | Bloomsbury Publishing Plc | Media | +38% |
+| 38 | ATG | Auction Technology Group PLC | Technology | +37% |
+| 39 | HTWS | Helios Towers Plc | Telecommunications | +36% |
+| 40 | SCT | Softcat plc | Technology | +36% |
+| 41 | KNOS | Kainos Group PLC | Technology | +36% |
+| 42 | ATR | Schroders Investment Trusts - Schroder Asian Total Return Investment Company plc | Unknown | +35% |
+| 43 | HMSO | Hammerson PLC | Real Estate | +33% |
+| 44 | MOON | Moonpig Group PLC | Retail | +31% |
+| 45 | TRST | Trustpilot Group PLC | Technology | +29% |
+| 46 | TATE | Tate & Lyle PLC | Food, Beverage and Tobacco | +28% |
+| 47 | INCH | Inchcape PLC | Retail | +28% |
+| 48 | JDW | J D Wetherspoon PLC | Unknown | +27% |
+
+Portfolio GBP 9,887.00 vs VWRP (global tracker, the baseline to beat) GBP 10,000.00 and FTSE250 average (all eligible, equal weight) GBP 10,000.00; all started at GBP 10,000.
+
+Saved: ./paper/report_2026-09-30.md
