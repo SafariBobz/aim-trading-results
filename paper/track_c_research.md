@@ -6,6 +6,8 @@
 
 **Change Track C v0 before starting it** (do not start it as drafted, do not drop it yet). Suggested changes, for Andy to decide: run it as a forward paper test with a matching control trade for each real one (same filters but no prior upgrade), report FTSE 250 and AIM separately, review at about 60 closed trades or 12 Apr 2027 (whichever is later) against a pass mark written down now, and have a person confirm each trigger.
 
+**Status 21 Oct 2026:** Andy chose to run a changed v0.1 as a forward paper test (draft rules awaiting his yes) and approved EODHD as a price source; a daily `paper/latest_closes.csv` will follow once the code is merged.
+
 ## Findings
 
 1. **Prior upgrade within 12 months predicts another upgrade.** Mechanical panel of 1,487 results/trading-update announcements (413 companies: FTSE 100, FTSE 250 excluding investment trusts, 150 most-traded AIM companies). Scheduled events, upgrade rate with a prior upgrade vs without: FTSE 100 21.1% vs 4.5%; FTSE 250 27.0% vs 4.4%; AIM 23.9% vs 3.3%; all 24.2% vs 4.0% (about 6x, p < 0.0001). The hand-built sample (25% vs 1.6%) was too extreme.
