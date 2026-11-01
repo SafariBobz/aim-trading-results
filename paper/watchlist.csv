@@ -1,0 +1,3 @@
+# Tickers for paper/latest_closes.csv (paper only). One per line under the header. Edit by hand.
+# ticker = LSE TIDM, e.g. HDD. unit = GBX (pence, default for shares) or GBP (ETFs, benchmarks).
+ticker,unit
