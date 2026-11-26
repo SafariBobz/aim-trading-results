@@ -1,0 +1,19 @@
+scope,entry,exit,n,closed,win_rate,mean_net,median_ret,total,total_ex_best,intraday_or_gap,gaps
+All signals,d1_close,close,115,112,40.87,-0.52,0.00,-60.22,-993.91,0,0
+All signals,d1_close,intraday,115,112,38.26,-5.68,0.00,-653.39,-1411.41,48,4
+All signals,d_close,close,121,115,44.63,11.66,-0.26,1410.55,524.91,0,0
+All signals,d_close,intraday,121,117,42.15,7.34,-0.17,888.08,44.70,46,4
+All signals,d_open,close,129,125,48.84,35.06,1.19,4522.86,3657.21,0,0
+All signals,d_open,intraday,129,126,44.19,23.47,0.00,3027.24,2161.60,59,6
+Back-test only,d1_close,close,103,103,42.72,4.27,0.00,439.61,-494.08,0,0
+Back-test only,d1_close,intraday,103,103,39.81,-1.77,0.00,-182.17,-940.19,43,3
+Back-test only,d_close,close,107,107,46.73,16.58,-0.17,1773.63,888.00,0,0
+Back-test only,d_close,intraday,107,107,44.86,13.75,0.00,1471.62,628.23,40,3
+Back-test only,d_open,close,115,115,52.17,42.33,1.56,4868.24,4002.59,0,0
+Back-test only,d_open,intraday,115,115,46.96,30.19,0.31,3472.40,2606.75,52,5
+Live only,d1_close,close,12,9,25.00,-41.65,-1.34,-499.83,-620.56,0,0
+Live only,d1_close,intraday,12,9,25.00,-39.27,-1.34,-471.22,-591.95,5,1
+Live only,d_close,close,14,8,28.57,-25.93,-1.06,-363.08,-500.14,0,0
+Live only,d_close,intraday,14,10,21.43,-41.68,-1.06,-583.53,-720.59,6,1
+Live only,d_open,close,14,10,21.43,-24.67,-0.52,-345.38,-570.20,0,0
+Live only,d_open,intraday,14,11,21.43,-31.80,-0.12,-445.15,-577.44,7,1
