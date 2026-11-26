@@ -16,10 +16,16 @@ Whether buying a FTSE 250 or AIM share shortly before its scheduled update, only
 - **Report separately:** FTSE 250 and AIM, every time.
 - **Stop:** the pot stops at £3,750.
 
+## Automatic trading (v0.1a, agreed by Andy 26 Nov 2026, from the 27 Nov 2026 brief)
+- The morning brief takes every qualifying Track C trade itself, with its matched control; Andy no longer confirms each one. Reason: it is a paper test of the rule, so picking trades by hand would test the picker, and candidates were expiring unconfirmed.
+- Timing: a trade is taken at the close of the first trading day on which a brief (published that morning) lists it as qualifying. Never backdate: a candidate first found after its last qualifying day is missed, not bought late.
+- Tie-break when more candidates qualify than free slots (five open, two per sector): soonest update date first, then larger market value.
+- Veto: if Andy writes "skip" (or objects) in a note on the brief page about a pending or open Track C trade, cancel it before the buy, or sell it at the next confirmed close, and say so. Trades taken before 27 Nov stay as they are.
+
 ## Review
 - Interim look 12 Apr 2027 against VWRP, Track B and the controls (about 35 trades by then: a look, not a verdict).
 - Verdict at 60 closed trades, or the first review date after that.
 - **Pass mark:** mean net return per trade above +1% and above the controls' mean. Anything else means drop or rethink.
 
 ## Prices
-`paper/latest_closes.csv` (EODHD, weekdays about 18:45 UTC; shares in pence, ETFs in pounds; use its `date` column and treat status `missing` as "price unavailable"). Tickers come from `paper/watchlist.csv` in the private repo; ask Andy to add new Track C tickers.
+`paper/latest_closes.csv` (EODHD, weekdays about 18:45 UTC; shares in pence, ETFs in pounds; use its `date` column and treat status `missing` as "price unavailable"). Tickers come from `paper/watchlist.csv` in the private repo; the brief names new Track C tickers in its Do-next list for Andy (or a Claude session with repo access) to add.
