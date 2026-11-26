@@ -21,6 +21,7 @@ Whether buying a FTSE 250 or AIM share shortly before its scheduled update, only
 - Timing: a trade is taken at the close of the first trading day on which a brief (published that morning) lists it as qualifying. Never backdate: a candidate first found after its last qualifying day is missed, not bought late.
 - Tie-break when more candidates qualify than free slots (five open, two per sector): soonest update date first, then larger market value.
 - Veto: if Andy writes "skip" (or objects) in a note on the brief page about a pending or open Track C trade, cancel it before the buy, or sell it at the next confirmed close, and say so. Trades taken before 27 Nov stay as they are.
+- FTSE 100 added (Andy, 26 Nov 2026, from the 27 Nov 2026 brief): FTSE 100 companies are eligible for trades and controls alongside FTSE 250 and AIM, with main-market costs (1.96% per round trip). Tag them market "FTSE 100" and report them separately as well as in totals, so the original FTSE 250 / AIM test stays readable.
 
 ## Review
 - Interim look 12 Apr 2027 against VWRP, Track B and the controls (about 35 trades by then: a look, not a verdict).
